@@ -1,0 +1,270 @@
+
+
+
+C:\pyOCR\pycharm\Anaconda3\envs\tf290\models\research\object_detection\wobiao>python 3dataset_mean_std.py
+Traceback (most recent call last):
+  File "3dataset_mean_std.py", line 22, in <module>
+    R_mean = R_channel / num
+ZeroDivisionError: division by zero  无图片
+
+C:\pyOCR\pycharm\Anaconda3\envs\tf290\models\research\object_detection\wobiao>python 3dataset_mean_std.py
+3dataset_mean_std.py:16: DeprecationWarning:     `imread` is deprecated!
+    `imread` is deprecated in SciPy 1.0.0, and will be removed in 1.2.0.
+    Use ``imageio.imread`` instead.
+  img = imread(os.path.join(filepath, filename)) / 255.0
+3dataset_mean_std.py:31: DeprecationWarning:     `imread` is deprecated!
+    `imread` is deprecated in SciPy 1.0.0, and will be removed in 1.2.0.
+    Use ``imageio.imread`` instead.
+  img = imread(os.path.join(filepath, filename)) / 255.0
+R_mean is 0.339778, G_mean is 0.403093, B_mean is 0.392482
+R_var is 0.304757, G_var is 0.220020, B_var is 0.233559
+
+B_mean is 0.392482
+B_var is 0.233559
+
+
+
+
+
+
+
+
+
+
+
+
+
+这人跑通了keypoint
+https://blog.csdn.net/xianquji1676/article/details/114000032
+
+windows 10 （专业版）下 coco-annotator工具的安装
+https://blog.csdn.net/weixin_42613668/article/details/123177558
+
+从零开始的Docker Desktop使用,Docker快速上手 （￣︶￣） Docker介绍和基础使用
+https://blog.csdn.net/qq_39611230/article/details/108641842
+
+
+COCO数据集Keypoint标注格式梳理和使用COCO-Annotator在自有数据集上进行标注
+https://blog.csdn.net/lavinia_chen007/article/details/123739961
+
+{
+  "images": [
+    {
+      "id": 4,
+      "dataset_id": 2,
+      "path": "/datasets/test/man.jpg",
+      "width": 4000,
+      "height": 6000,
+      "file_name": "man.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "person",
+      "supercategory": "person",
+      "color": "#a74ced",
+      "metadata": {},
+      "keypoint_colors": [
+        "#bf5c4d",
+        "#9c73bf",
+        "#ff1a38",
+        "#bf3300",
+        "#736322",
+        "#bf5c4d",
+        "#d99100",
+        "#4d8068",
+        "#0d2b80",
+        "#9c73bf",
+        "#ff1a38",
+        "#bf3300",
+        "#736322",
+        "#33fff1",
+        "#3369ff",
+        "#9d13bf",
+        "#733941"
+      ],
+      "keypoints": [
+        "nose",
+        "left_eye",
+        "right_eye",
+        "left_ear",
+        "right_ear",
+        "left_shoulder",
+        "right_shoulder",
+        "left_elbow",
+        "right_elbow",
+        "left_wrist",
+        "right_wrist",
+        "left_hip",
+        "right_hip",
+        "left_knee",
+        "right_knee",
+        "left_ankle",
+        "right_ankle"
+      ],
+      "skeleton": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          6,
+          8
+        ],
+        [
+          6,
+          12
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          7,
+          13
+        ],
+        [
+          8,
+          10
+        ],
+        [
+          9,
+          11
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          12,
+          13
+        ],
+        [
+          13,
+          15
+        ],
+        [
+          14,
+          16
+        ],
+        [
+          15,
+          17
+        ]
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "id": 216,
+      "image_id": 4,
+      "category_id": 1,
+      "segmentation": [
+        [
+          2520.9,
+          1587.4,
+          2520.9,
+          4975.7,
+          1411.2,
+          4975.7,
+          1411.2,
+          1587.4
+        ]
+      ],
+      "area": 3761790,
+      "bbox": [
+        1411,
+        1587,
+        1110,
+        3389
+      ],
+      "iscrowd": false,
+      "isbbox": true,
+      "color": "#455dd2",
+      "keypoints": [
+        2040,
+        1977,
+        2,
+        2111,
+        1923,
+        2,
+        1986,
+        1919,
+        2,
+        2185,
+        1973,
+        2,
+        1904,
+        1970,
+        2,
+        2353,
+        2352,
+        2,
+        1654,
+        2297,
+        2,
+        2392,
+        2855,
+        2,
+        1549,
+        2820,
+        2,
+        2438,
+        3296,
+        2,
+        1619,
+        3253,
+        2,
+        2150,
+        3298,
+        2,
+        1817,
+        3307,
+        2,
+        2164,
+        3846,
+        2,
+        1817,
+        3897,
+        2,
+        2077,
+        4549,
+        2,
+        1807,
+        4536,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 17
+    }
+  ]
+}

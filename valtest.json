@@ -1,0 +1,2456 @@
+{
+  "annotations": [
+    {
+      "area": 93840,
+      "bbox": [
+        122.0,
+        33.0,
+        408.0,
+        230.0
+      ],
+      "category_id": 4,
+      "color": "#43df5e",
+      "id": 75,
+      "image_id": 220,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        161,
+        203,
+        2,
+        478,
+        224,
+        2,
+        173,
+        89,
+        2,
+        501,
+        99,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          530.4,
+          32.9,
+          530.4,
+          262.6,
+          121.6,
+          262.6,
+          121.6,
+          32.9
+        ]
+      ]
+    },
+    {
+      "area": 123120,
+      "bbox": [
+        49.0,
+        43.0,
+        456.0,
+        270.0
+      ],
+      "category_id": 4,
+      "color": "#fe4e7f",
+      "id": 76,
+      "image_id": 221,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        472,
+        89,
+        2,
+        169,
+        112,
+        2,
+        91,
+        277,
+        2,
+        430,
+        245,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          48.5,
+          313.4,
+          48.5,
+          43.2,
+          505.4,
+          43.2,
+          505.4,
+          313.4
+        ]
+      ]
+    },
+    {
+      "area": 78089,
+      "bbox": [
+        146.0,
+        46.0,
+        341.0,
+        229.0
+      ],
+      "category_id": 4,
+      "color": "#ca5dfe",
+      "id": 79,
+      "image_id": 224,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        208,
+        138,
+        2,
+        462,
+        75,
+        2,
+        427,
+        171,
+        2,
+        179,
+        249,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          486.5,
+          45.8,
+          486.5,
+          274.7,
+          145.7,
+          274.7,
+          145.7,
+          45.8
+        ]
+      ]
+    },
+    {
+      "area": 103390,
+      "bbox": [
+        35.0,
+        76.0,
+        422.0,
+        245.0
+      ],
+      "category_id": 4,
+      "color": "#8ae27e",
+      "id": 83,
+      "image_id": 227,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        419,
+        110,
+        2,
+        68,
+        121,
+        2,
+        205,
+        260,
+        2,
+        398,
+        300,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          457.2,
+          75.9,
+          457.2,
+          321.1,
+          34.7,
+          321.1,
+          34.7,
+          75.9
+        ]
+      ]
+    },
+    {
+      "area": 81450,
+      "bbox": [
+        66.0,
+        77.0,
+        450.0,
+        181.0
+      ],
+      "category_id": 4,
+      "color": "#f35d73",
+      "id": 101,
+      "image_id": 243,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        159,
+        115,
+        2,
+        486,
+        106,
+        2,
+        125,
+        221,
+        2,
+        443,
+        237,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          65.7,
+          258.3,
+          65.7,
+          76.7,
+          515.8,
+          76.7,
+          515.8,
+          258.3
+        ]
+      ]
+    },
+    {
+      "area": 93728,
+      "bbox": [
+        56.0,
+        67.0,
+        464.0,
+        202.0
+      ],
+      "category_id": 4,
+      "color": "#4c1cae",
+      "id": 115,
+      "image_id": 257,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        347,
+        113,
+        2,
+        81,
+        171,
+        2,
+        191,
+        236,
+        2,
+        483,
+        210,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          520.1,
+          67.3,
+          520.1,
+          268.7,
+          56.2,
+          268.7,
+          56.2,
+          67.3
+        ]
+      ]
+    },
+    {
+      "area": 105096,
+      "bbox": [
+        54.0,
+        54.0,
+        453.0,
+        232.0
+      ],
+      "category_id": 4,
+      "color": "#9d621b",
+      "id": 118,
+      "image_id": 260,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        188,
+        79,
+        2,
+        461,
+        91,
+        2,
+        109,
+        221,
+        2,
+        399,
+        256,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          507.2,
+          54.4,
+          507.2,
+          285.9,
+          53.6,
+          285.9,
+          53.6,
+          54.4
+        ]
+      ]
+    },
+    {
+      "area": 65170,
+      "bbox": [
+        147.0,
+        41.0,
+        266.0,
+        245.0
+      ],
+      "category_id": 4,
+      "color": "#fe5909",
+      "id": 119,
+      "image_id": 261,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        181,
+        95,
+        2,
+        337,
+        263,
+        2,
+        218,
+        249,
+        2,
+        363,
+        67,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          412.5,
+          40.6,
+          412.5,
+          285.9,
+          146.6,
+          285.9,
+          146.6,
+          40.6
+        ]
+      ]
+    },
+    {
+      "area": 83640,
+      "bbox": [
+        125.0,
+        40.0,
+        328.0,
+        255.0
+      ],
+      "category_id": 4,
+      "color": "#ea4bba",
+      "id": 155,
+      "image_id": 297,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        200,
+        271,
+        2,
+        419,
+        94,
+        2,
+        175,
+        100,
+        2,
+        382,
+        249,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          452.9,
+          39.7,
+          452.9,
+          294.5,
+          125.1,
+          294.5,
+          125.1,
+          39.7
+        ]
+      ]
+    },
+    {
+      "area": 79265,
+      "bbox": [
+        62.0,
+        36.0,
+        415.0,
+        191.0
+      ],
+      "category_id": 4,
+      "color": "#20d91f",
+      "id": 169,
+      "image_id": 311,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        91,
+        73,
+        2,
+        182,
+        202,
+        2,
+        448,
+        188,
+        2,
+        362,
+        68,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          477.0,
+          36.3,
+          477.0,
+          226.5,
+          62.2,
+          226.5,
+          62.2,
+          36.3
+        ]
+      ]
+    },
+    {
+      "area": 80864,
+      "bbox": [
+        105.0,
+        44.0,
+        361.0,
+        224.0
+      ],
+      "category_id": 4,
+      "color": "#cb31d9",
+      "id": 179,
+      "image_id": 320,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        336,
+        189,
+        2,
+        233,
+        73,
+        2,
+        143,
+        233,
+        2,
+        434,
+        88,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          105.3,
+          267.8,
+          105.3,
+          44.0,
+          465.8,
+          44.0,
+          465.8,
+          267.8
+        ]
+      ]
+    },
+    {
+      "area": 99250,
+      "bbox": [
+        86.0,
+        44.0,
+        397.0,
+        250.0
+      ],
+      "category_id": 4,
+      "color": "#934ee4",
+      "id": 180,
+      "image_id": 321,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        125,
+        118,
+        2,
+        401,
+        259,
+        2,
+        129,
+        215,
+        2,
+        444,
+        73,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          483.1,
+          44.0,
+          483.1,
+          293.6,
+          85.5,
+          293.6,
+          85.5,
+          44.0
+        ]
+      ]
+    },
+    {
+      "area": 71656,
+      "bbox": [
+        143.0,
+        45.0,
+        338.0,
+        212.0
+      ],
+      "category_id": 4,
+      "color": "#7700bf",
+      "id": 182,
+      "image_id": 323,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        221,
+        83,
+        2,
+        443,
+        222,
+        2,
+        196,
+        220,
+        2,
+        404,
+        91,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          143.1,
+          256.6,
+          143.1,
+          44.9,
+          481.3,
+          44.9,
+          481.3,
+          256.6
+        ]
+      ]
+    },
+    {
+      "area": 88319,
+      "bbox": [
+        104.0,
+        74.0,
+        407.0,
+        217.0
+      ],
+      "category_id": 4,
+      "color": "#b02295",
+      "id": 187,
+      "image_id": 324,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        175,
+        101,
+        2,
+        138,
+        228,
+        2,
+        476,
+        108,
+        2,
+        424,
+        270,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          510.6,
+          74.2,
+          510.6,
+          291.0,
+          104.4,
+          291.0,
+          104.4,
+          74.2
+        ]
+      ]
+    },
+    {
+      "area": 63732,
+      "bbox": [
+        141.0,
+        60.0,
+        339.0,
+        188.0
+      ],
+      "category_id": 4,
+      "color": "#3ec320",
+      "id": 192,
+      "image_id": 328,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        387,
+        85,
+        2,
+        184,
+        131,
+        2,
+        437,
+        220,
+        2,
+        189,
+        198,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          141.4,
+          248.0,
+          141.4,
+          60.4,
+          479.6,
+          60.4,
+          479.6,
+          248.0
+        ]
+      ]
+    },
+    {
+      "area": 90951,
+      "bbox": [
+        67.0,
+        61.0,
+        427.0,
+        213.0
+      ],
+      "category_id": 4,
+      "color": "#e48938",
+      "id": 195,
+      "image_id": 331,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        372,
+        91,
+        2,
+        461,
+        227,
+        2,
+        105,
+        129,
+        2,
+        220,
+        247,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          67.4,
+          273.8,
+          67.4,
+          61.3,
+          494.2,
+          61.3,
+          494.2,
+          273.8
+        ]
+      ]
+    },
+    {
+      "area": 73232,
+      "bbox": [
+        67.0,
+        54.0,
+        398.0,
+        184.0
+      ],
+      "category_id": 4,
+      "color": "#a99116",
+      "id": 196,
+      "image_id": 332,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        93,
+        91,
+        2,
+        153,
+        214,
+        2,
+        381,
+        197,
+        2,
+        435,
+        102,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          465.0,
+          54.4,
+          465.0,
+          237.7,
+          67.4,
+          237.7,
+          67.4,
+          54.4
+        ]
+      ]
+    },
+    {
+      "area": 60348,
+      "bbox": [
+        73.0,
+        55.0,
+        321.0,
+        188.0
+      ],
+      "category_id": 4,
+      "color": "#b71e3e",
+      "id": 199,
+      "image_id": 335,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        145,
+        217,
+        2,
+        106,
+        97,
+        2,
+        365,
+        188,
+        2,
+        351,
+        110,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          393.6,
+          55.2,
+          393.6,
+          242.8,
+          73.4,
+          242.8,
+          73.4,
+          55.2
+        ]
+      ]
+    },
+    {
+      "area": 40765,
+      "bbox": [
+        150.0,
+        91.0,
+        263.0,
+        155.0
+      ],
+      "category_id": 4,
+      "color": "#35d45a",
+      "id": 205,
+      "image_id": 340,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        181,
+        122,
+        2,
+        208,
+        220,
+        2,
+        356,
+        222,
+        2,
+        388,
+        133,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          412.5,
+          91.4,
+          412.5,
+          246.3,
+          150.0,
+          246.3,
+          150.0,
+          91.4
+        ]
+      ]
+    },
+    {
+      "area": 57828,
+      "bbox": [
+        143.0,
+        73.0,
+        316.0,
+        183.0
+      ],
+      "category_id": 4,
+      "color": "#804bd3",
+      "id": 213,
+      "image_id": 348,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        176,
+        109,
+        2,
+        207,
+        237,
+        2,
+        418,
+        202,
+        2,
+        437,
+        105,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          459.0,
+          73.3,
+          459.0,
+          255.7,
+          143.1,
+          255.7,
+          143.1,
+          73.3
+        ]
+      ]
+    },
+    {
+      "area": 108570,
+      "bbox": [
+        50.0,
+        37.0,
+        462.0,
+        235.0
+      ],
+      "category_id": 4,
+      "color": "#084ac2",
+      "id": 214,
+      "image_id": 349,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        116,
+        108,
+        2,
+        472,
+        70,
+        2,
+        87,
+        224,
+        2,
+        406,
+        251,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          512.3,
+          37.2,
+          512.3,
+          272.1,
+          50.2,
+          272.1,
+          50.2,
+          37.2
+        ]
+      ]
+    },
+    {
+      "area": 76818,
+      "bbox": [
+        147.0,
+        57.0,
+        354.0,
+        217.0
+      ],
+      "category_id": 4,
+      "color": "#bf0b9a",
+      "id": 218,
+      "image_id": 353,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        332,
+        250,
+        2,
+        220,
+        204,
+        2,
+        175,
+        90,
+        2,
+        457,
+        86,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          501.1,
+          57.0,
+          501.1,
+          273.8,
+          147.4,
+          273.8,
+          147.4,
+          57.0
+        ]
+      ]
+    },
+    {
+      "area": 89253,
+      "bbox": [
+        112.0,
+        60.0,
+        423.0,
+        211.0
+      ],
+      "category_id": 4,
+      "color": "#339d16",
+      "id": 220,
+      "image_id": 355,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        505,
+        95,
+        2,
+        198,
+        242,
+        2,
+        409,
+        213,
+        2,
+        135,
+        109,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          534.7,
+          59.5,
+          534.7,
+          271.2,
+          112.2,
+          271.2,
+          112.2,
+          59.5
+        ]
+      ]
+    },
+    {
+      "area": 95352,
+      "bbox": [
+        91.0,
+        47.0,
+        411.0,
+        232.0
+      ],
+      "category_id": 4,
+      "color": "#0bc443",
+      "id": 226,
+      "image_id": 361,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        123,
+        79,
+        2,
+        468,
+        119,
+        2,
+        259,
+        239,
+        2,
+        414,
+        189,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          502.0,
+          46.6,
+          502.0,
+          279.0,
+          90.6,
+          279.0,
+          90.6,
+          46.6
+        ]
+      ]
+    },
+    {
+      "area": 89284,
+      "bbox": [
+        64.0,
+        49.0,
+        442.0,
+        202.0
+      ],
+      "category_id": 4,
+      "color": "#6b47e1",
+      "id": 234,
+      "image_id": 368,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        165,
+        231,
+        2,
+        94,
+        125,
+        2,
+        469,
+        72,
+        2,
+        400,
+        216,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          506.3,
+          49.2,
+          506.3,
+          251.4,
+          64.0,
+          251.4,
+          64.0,
+          49.2
+        ]
+      ]
+    },
+    {
+      "area": 57664,
+      "bbox": [
+        172.0,
+        55.0,
+        272.0,
+        212.0
+      ],
+      "category_id": 4,
+      "color": "#57c6d7",
+      "id": 238,
+      "image_id": 372,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        208,
+        87,
+        2,
+        372,
+        83,
+        2,
+        207,
+        214,
+        2,
+        409,
+        242,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          171.5,
+          266.9,
+          171.5,
+          55.2,
+          443.5,
+          55.2,
+          443.5,
+          266.9
+        ]
+      ]
+    },
+    {
+      "area": 86526,
+      "bbox": [
+        75.0,
+        73.0,
+        437.0,
+        198.0
+      ],
+      "category_id": 4,
+      "color": "#aab80e",
+      "id": 241,
+      "image_id": 374,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        428,
+        97,
+        2,
+        149,
+        130,
+        2,
+        466,
+        233,
+        2,
+        110,
+        245,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          75.1,
+          271.2,
+          75.1,
+          73.3,
+          512.3,
+          73.3,
+          512.3,
+          271.2
+        ]
+      ]
+    },
+    {
+      "area": 93026,
+      "bbox": [
+        140.0,
+        48.0,
+        386.0,
+        241.0
+      ],
+      "category_id": 4,
+      "color": "#9e41de",
+      "id": 248,
+      "image_id": 381,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        166,
+        117,
+        2,
+        337,
+        77,
+        2,
+        176,
+        245,
+        2,
+        492,
+        263,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          139.7,
+          289.3,
+          139.7,
+          47.5,
+          526.1,
+          47.5,
+          526.1,
+          289.3
+        ]
+      ]
+    },
+    {
+      "area": 81576,
+      "bbox": [
+        116.0,
+        63.0,
+        396.0,
+        206.0
+      ],
+      "category_id": 4,
+      "color": "#efd305",
+      "id": 250,
+      "image_id": 383,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        433,
+        132,
+        2,
+        198,
+        93,
+        2,
+        474,
+        241,
+        2,
+        153,
+        237,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          115.6,
+          268.7,
+          115.6,
+          63.0,
+          512.3,
+          63.0,
+          512.3,
+          268.7
+        ]
+      ]
+    },
+    {
+      "area": 77976,
+      "bbox": [
+        141.0,
+        59.0,
+        342.0,
+        228.0
+      ],
+      "category_id": 4,
+      "color": "#73eab9",
+      "id": 253,
+      "image_id": 385,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        445,
+        87,
+        2,
+        171,
+        135,
+        2,
+        180,
+        256,
+        2,
+        380,
+        189,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          483.1,
+          58.7,
+          483.1,
+          286.7,
+          140.6,
+          286.7,
+          140.6,
+          58.7
+        ]
+      ]
+    },
+    {
+      "area": 72771,
+      "bbox": [
+        91.0,
+        45.0,
+        381.0,
+        191.0
+      ],
+      "category_id": 4,
+      "color": "#08ccc3",
+      "id": 255,
+      "image_id": 387,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        168,
+        208,
+        2,
+        124,
+        120,
+        2,
+        442,
+        183,
+        2,
+        377,
+        90,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          471.9,
+          44.9,
+          471.9,
+          235.9,
+          90.6,
+          235.9,
+          90.6,
+          44.9
+        ]
+      ]
+    },
+    {
+      "area": 65601,
+      "bbox": [
+        82.0,
+        55.0,
+        333.0,
+        197.0
+      ],
+      "category_id": 4,
+      "color": "#0184e6",
+      "id": 261,
+      "image_id": 393,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        172,
+        92,
+        2,
+        118,
+        202,
+        2,
+        387,
+        105,
+        2,
+        348,
+        226,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          415.1,
+          55.2,
+          415.1,
+          252.3,
+          82.0,
+          252.3,
+          82.0,
+          55.2
+        ]
+      ]
+    },
+    {
+      "area": 98496,
+      "bbox": [
+        91.0,
+        52.0,
+        432.0,
+        228.0
+      ],
+      "category_id": 4,
+      "color": "#a12af5",
+      "id": 262,
+      "image_id": 394,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        232,
+        220,
+        2,
+        360,
+        102,
+        2,
+        145,
+        87,
+        2,
+        493,
+        258,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          522.6,
+          51.8,
+          522.6,
+          279.8,
+          90.6,
+          279.8,
+          90.6,
+          51.8
+        ]
+      ]
+    },
+    {
+      "area": 89760,
+      "bbox": [
+        110.0,
+        46.0,
+        374.0,
+        240.0
+      ],
+      "category_id": 4,
+      "color": "#a83ffa",
+      "id": 266,
+      "image_id": 398,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        412,
+        122,
+        2,
+        138,
+        257,
+        2,
+        172,
+        75,
+        2,
+        456,
+        197,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          109.6,
+          285.9,
+          109.6,
+          45.8,
+          483.9,
+          45.8,
+          483.9,
+          285.9
+        ]
+      ]
+    },
+    {
+      "area": 107319,
+      "bbox": [
+        78.0,
+        64.0,
+        431.0,
+        249.0
+      ],
+      "category_id": 4,
+      "color": "#a161e0",
+      "id": 269,
+      "image_id": 401,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        473,
+        102,
+        2,
+        200,
+        108,
+        2,
+        110,
+        265,
+        2,
+        320,
+        297,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          508.9,
+          63.8,
+          508.9,
+          312.5,
+          77.7,
+          312.5,
+          77.7,
+          63.8
+        ]
+      ]
+    },
+    {
+      "area": 61920,
+      "bbox": [
+        82.0,
+        73.0,
+        360.0,
+        172.0
+      ],
+      "category_id": 4,
+      "color": "#f27470",
+      "id": 270,
+      "image_id": 402,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        114,
+        212,
+        2,
+        406,
+        201,
+        2,
+        172,
+        110,
+        2,
+        361,
+        144,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          82.0,
+          244.6,
+          82.0,
+          73.3,
+          441.8,
+          73.3,
+          441.8,
+          244.6
+        ]
+      ]
+    },
+    {
+      "area": 73987,
+      "bbox": [
+        147.0,
+        66.0,
+        307.0,
+        241.0
+      ],
+      "category_id": 4,
+      "color": "#0ecc53",
+      "id": 271,
+      "image_id": 403,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        190,
+        165,
+        2,
+        411,
+        100,
+        2,
+        436,
+        240,
+        2,
+        184,
+        275,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          146.6,
+          306.5,
+          146.6,
+          66.4,
+          453.8,
+          66.4,
+          453.8,
+          306.5
+        ]
+      ]
+    },
+    {
+      "area": 96798,
+      "bbox": [
+        66.0,
+        50.0,
+        438.0,
+        221.0
+      ],
+      "category_id": 4,
+      "color": "#2341ad",
+      "id": 276,
+      "image_id": 408,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        123,
+        96,
+        2,
+        94,
+        243,
+        2,
+        438,
+        82,
+        2,
+        480,
+        191,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          65.7,
+          271.2,
+          65.7,
+          50.1,
+          503.7,
+          50.1,
+          503.7,
+          271.2
+        ]
+      ]
+    },
+    {
+      "area": 70499,
+      "bbox": [
+        92.0,
+        53.0,
+        319.0,
+        221.0
+      ],
+      "category_id": 4,
+      "color": "#abe36d",
+      "id": 282,
+      "image_id": 414,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        378,
+        96,
+        2,
+        129,
+        91,
+        2,
+        357,
+        248,
+        2,
+        190,
+        238,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          410.8,
+          52.6,
+          410.8,
+          273.8,
+          91.5,
+          273.8,
+          91.5,
+          52.6
+        ]
+      ]
+    },
+    {
+      "area": 57024,
+      "bbox": [
+        110.0,
+        78.0,
+        297.0,
+        192.0
+      ],
+      "category_id": 4,
+      "color": "#67ed03",
+      "id": 283,
+      "image_id": 415,
+      "isbbox": true,
+      "iscrowd": false,
+      "keypoints": [
+        222,
+        109,
+        2,
+        377,
+        241,
+        2,
+        333,
+        111,
+        2,
+        140,
+        227,
+        2
+      ],
+      "metadata": {},
+      "num_keypoints": 4,
+      "segmentation": [
+        [
+          110.4,
+          270.4,
+          110.4,
+          77.6,
+          407.3,
+          77.6,
+          407.3,
+          270.4
+        ]
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "color": "#30c075",
+      "id": 4,
+      "keypoint_colors": [
+        "#bf5c4d",
+        "#d99100",
+        "#4d8068",
+        "#0d2b80"
+      ],
+      "keypoints": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "metadata": {},
+      "name": "fingers",
+      "skeleton": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "supercategory": ""
+    }
+  ],
+  "images": [
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000174.jpg",
+      "height": 354,
+      "id": 393,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000174.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000113.jpg",
+      "height": 354,
+      "id": 332,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000113.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000092.jpg",
+      "height": 354,
+      "id": 311,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000092.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000102.jpg",
+      "height": 354,
+      "id": 321,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000102.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000002.jpg",
+      "height": 354,
+      "id": 221,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000002.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000168.jpg",
+      "height": 354,
+      "id": 387,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000168.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000129.jpg",
+      "height": 354,
+      "id": 348,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000129.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000105.jpg",
+      "height": 354,
+      "id": 324,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000105.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000008.jpg",
+      "height": 354,
+      "id": 227,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000008.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000001.jpg",
+      "height": 354,
+      "id": 220,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000001.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000184.jpg",
+      "height": 354,
+      "id": 403,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000184.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000179.jpg",
+      "height": 354,
+      "id": 398,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000179.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000109.jpg",
+      "height": 354,
+      "id": 328,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000109.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000104.jpg",
+      "height": 354,
+      "id": 323,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000104.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000130.jpg",
+      "height": 354,
+      "id": 349,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000130.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000005.jpg",
+      "height": 354,
+      "id": 224,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000005.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000136.jpg",
+      "height": 354,
+      "id": 355,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000136.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000153.jpg",
+      "height": 354,
+      "id": 372,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000153.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000195.jpg",
+      "height": 354,
+      "id": 414,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000195.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000142.jpg",
+      "height": 354,
+      "id": 361,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000142.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000078.jpg",
+      "height": 354,
+      "id": 297,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000078.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000175.jpg",
+      "height": 354,
+      "id": 394,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000175.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000116.jpg",
+      "height": 354,
+      "id": 335,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000116.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000101.jpg",
+      "height": 354,
+      "id": 320,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000101.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000134.jpg",
+      "height": 354,
+      "id": 353,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000134.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000042.jpg",
+      "height": 354,
+      "id": 261,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000042.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000189.jpg",
+      "height": 354,
+      "id": 408,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000189.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000121.jpg",
+      "height": 354,
+      "id": 340,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000121.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000164.jpg",
+      "height": 354,
+      "id": 383,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000164.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000041.jpg",
+      "height": 354,
+      "id": 260,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000041.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000149.jpg",
+      "height": 354,
+      "id": 368,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000149.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000024.jpg",
+      "height": 354,
+      "id": 243,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000024.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000038.jpg",
+      "height": 354,
+      "id": 257,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000038.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000162.jpg",
+      "height": 354,
+      "id": 381,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000162.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000196.jpg",
+      "height": 354,
+      "id": 415,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000196.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000182.jpg",
+      "height": 354,
+      "id": 401,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000182.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000155.jpg",
+      "height": 354,
+      "id": 374,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000155.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000166.jpg",
+      "height": 354,
+      "id": 385,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000166.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000112.jpg",
+      "height": 354,
+      "id": 331,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000112.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    },
+    {
+      "annotated": false,
+      "annotating": [],
+      "category_ids": [],
+      "dataset_id": 12,
+      "deleted": false,
+      "events": [],
+      "file_name": "guiji_000183.jpg",
+      "height": 354,
+      "id": 402,
+      "metadata": {},
+      "milliseconds": 0,
+      "num_annotations": 0,
+      "path": "/datasets/fingerups/guiji_000183.jpg",
+      "regenerate_thumbnail": false,
+      "width": 578
+    }
+  ],
+  "info": {
+    "contributor": "zyl",
+    "date_created": "2021/02/01",
+    "description": "human hand keypoints",
+    "url": "",
+    "version": "1.0",
+    "year": 2021
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "Attribution-NonCommercial-ShareAlike License",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+    }
+  ]
+}
