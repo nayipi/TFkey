@@ -2916,7 +2916,7 @@ zipp                          3.8.0
 import tensorflow as tf
 tf.__version__
 
-#下载models文件夹，在content下就对了
+#下载tensorflow models文件夹，在content下就对了
 !git clone https://github.com/tensorflow/models.git
 
 #添加环境变量 您需要将slim和object_detection目录添加到环境路径
@@ -2954,6 +2954,7 @@ os.environ['PYTHONPATH'] += ':/content/models/research/:/content/models/research
 !cp object_detection/packages/tf2/setup.py .
 !python setup.py build
 !python -m pip install --user .
+#!python -m pip install -q .
 
 #第二块
 #测试是不对的，卸载再安装tf-models-official==2.8.0
@@ -2974,34 +2975,46 @@ os.environ['PYTHONPATH'] += ':/content/models/research/:/content/models/research
 #%cd /content/models/research/object_detection/wan
 #! rm -rf models
 
-#上传训练模板
+#上传训练框架，不要解压
 %cd /content
 %cd /content/models/research/object_detection
 # %mkdir wan
 %ls
-!git clone https://github.com/nayipi/TFmodels.git
+!git clone https://github.com/nayipi/TFkey.git
+
+#上传模板 要解压 centernet_resnet50_v2_512x512_kpts_coco17_tpu-8
+%cd /content
+%cd /content/models/research/object_detection/TFkey/pre_trained_models
+%ls
+!wget http://download.tensorflow.org/models/object_detection/tf2/20200711/centernet_resnet50_v2_512x512_kpts_coco17_tpu-8.tar.gz
+#解压
+!tar -zxvf centernet_resnet50_v2_512x512_kpts_coco17_tpu-8.tar.gz
+
+%cd /content/models/research/object_detection/TFkey/pre_trained_models/centernet_resnet50_v2_512x512_kpts_coco17_tpu-8/checkpoint
+%ls
+
 
 #训练  
 %cd /content
-%cd /content/models/research/object_detection/TFmodels
-!python model_main_tf2.py --model_dir=models/ssd_mobilenet_v1_fpn --pipeline_config_path=models/ssd_mobilenet_v1_fpn/pipeline.config
+%cd /content/models/research/object_detection/TFkey
+!python 5model_main_tf2.py --model_dir=models/centernet_resnet50_v2_512x512_kpts_coco17_tpu-8 --pipeline_config_path=models/centernet_resnet50_v2_512x512_kpts_coco17_tpu-8/pipeline.config
 
 
 #保存pb 有效
 %cd /content
-%cd /content/models/research/object_detection/TFmodels
-! python exporter_main_v2.py --input_type image_tensor --pipeline_config_path models/ssd_mobilenet_v1_fpn/pipeline.config --trained_checkpoint_dir models/ssd_mobilenet_v1_fpn --output_directory "exported_models/my_model"
+%cd /content/models/research/object_detection/TFkey
+! python 6exporter_main_v2.py --input_type image_tensor --pipeline_config_path models/ssd_mobilenet_v1_fpn/pipeline.config --trained_checkpoint_dir models/ssd_mobilenet_v1_fpn --output_directory "exported_models/my_model"
 
 #兴建文件夹放验证图片
 %cd /content
-%cd /content/models/research/object_detection/TFmodels
+%cd /content/models/research/object_detection/TFkey
 %mkdir inference_result2
 
 
 #验证有效
 %cd /content
-%cd /content/models/research/object_detection/TFmodels
-!python inference_main_v2.py -m "exported_models/my_model/saved_model" -l "annotations/label_map.pbtxt" -i "images/test" -o "inference_result2/"
+%cd /content/models/research/object_detection/TFkey
+!python 7inference_main_v2.py -m "exported_models/my_model/saved_model" -l "annotations/label_map.pbtxt" -i "images/test" -o "inference_result2/"
 
 电脑
 cd C:\pyOCR\pycharm\Anaconda3\envs\tf290\models\research\object_detection\tf2_object_detection_training_demo
